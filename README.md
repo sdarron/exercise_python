@@ -1,1 +1,1 @@
-# hello_world_python
+# exercise_python
